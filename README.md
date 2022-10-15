@@ -1,6 +1,5 @@
 # gowthamsr37.github.io
-This is my data science portfolio where I am showcasing my data science projects and blogs, you can find out the website here https://gowthamsr37.github.io/
-
+This is my data science portfolio where I am showcasing my data science projects and blogs
 Below are some of the screenshots from the portfolio website.
 
 ![image](https://user-images.githubusercontent.com/94861619/195985018-e62c43a1-9b63-4b0d-94fd-77d2856321b2.png)
